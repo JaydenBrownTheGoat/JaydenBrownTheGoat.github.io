@@ -1,7 +1,7 @@
-# About me
+# Welcome
 
-I am **19 years old**, I am a student at ***BOISE STATE UNIVERSITY*** I study <ins>Computer Engineering</ins> there and am a *2nd year* student as of right now. I fill my days working on school work, hanging out with my girlfriend of <ins>**3 years**</ins>, hanging out with my family on occasion, playing video games, and working. I **LOVE** working with and on computers, they just facinate me so much when I am working on the inside of them. I really enjoy taking things apart and putting them together.
+I welcome you to my homepage, here you can find out lots of things about me (The creator) and things that I've made. I hope you'll enjoy learning.
 
-## DOT
+## Learning about me
 
-May 6th 2006 also known as 05/06/2006
+The best way to learn about me would be to go to my [About me](aboutme.md) page and read through that but what that doesn't cover is what you'll find out in this next section which is about the things that I really enjoy doing.
